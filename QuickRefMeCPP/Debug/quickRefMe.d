@@ -1,0 +1,1 @@
+quickRefMe.o: ../quickRefMe.cpp
