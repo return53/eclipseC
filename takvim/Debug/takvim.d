@@ -1,0 +1,1 @@
+takvim.o: ../takvim.c

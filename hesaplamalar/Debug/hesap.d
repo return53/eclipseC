@@ -1,0 +1,1 @@
+hesap.o: ../hesap.c
